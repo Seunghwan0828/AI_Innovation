@@ -1,0 +1,4 @@
+pip3 install Cython
+git clone https://github.com/numpy/numpy.git 
+cd numpy
+pip3 install . --no-binary :all: --no-use-pep517

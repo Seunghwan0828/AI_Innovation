@@ -1,0 +1,3 @@
+pip install cython --no-use-pep517
+pip install numpy --no-use-pep517
+pip install pandas --no-use-pep517pip install pandas --no-use-pep517
